@@ -1,0 +1,136 @@
+﻿  Proiect Derivate 1E2.cpp
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(71,77): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(71,52): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,81): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,81): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,81): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,81): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,56): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,56): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,56): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(75,56): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,81): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,81): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,81): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,81): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,56): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,56): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,56): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(76,56): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,81): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,81): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,81): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,81): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,56): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,56): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,56): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(77,56): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,81): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,81): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,81): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,81): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,81): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,56): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,56): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,56): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(78,56): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,103): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,103): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,103): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,103): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,82): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,82): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,82): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(93,82): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,82): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,82): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,82): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,82): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,57): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,57): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,57): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(122,57): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(123,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(124,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(125,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,86): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         with
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:             T=unsigned int
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         ]
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         and
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         [
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:             T=float
+C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\Proiect Derivate 1E2.cpp(126,61): warning C4244:         ]
+  Proiect Derivate 1E2.vcxproj -> C:\Users\Mau-PC\source\repos\Proiect Derivate 1E2\x64\Debug\Proiect Derivate 1E2.exe
