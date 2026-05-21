@@ -1,12 +1,6 @@
-# Proiect Derivate
-
 Un proiect educational dedicat notiunii de derivata, cu explicatii, exemple si exercitii pentru intelegerea regulilor de derivare si a aplicatiilor acestora.
 
-## Descriere
-
 Acest proiect prezinta concepte de baza si aplicatii legate de derivate in analiza matematica. Scopul este de a oferi o resursa clara pentru recapitulare, invatare si exersare.
-
-## Continut
 
 - definitia derivatei
 - interpretarea geometrica a derivatei
@@ -15,8 +9,6 @@ Acest proiect prezinta concepte de baza si aplicatii legate de derivate in anali
 - exemple rezolvate
 - exercitii propuse
 - aplicatii ale derivatelor in studiul functiilor
-
-## Notiuni Principale
 
 Derivata unei functii masoara viteza de schimbare a functiei intr-un punct. Geometric, derivata reprezinta panta tangentei la graficul functiei in punctul respectiv.
 
@@ -54,8 +46,6 @@ f(x) = sin(x)
 f'(x) = cos(x)
 ```
 
-## Aplicatii
-
 Derivatele pot fi folosite pentru:
 
 - determinarea intervalelor de crestere si descrestere
@@ -64,11 +54,9 @@ Derivatele pot fi folosite pentru:
 - aproximarea valorilor unei functii
 - modelarea vitezei de schimbare in probleme practice
 
-## Cum Poate Fi Folosit
-
 Materialul poate fi parcurs ca suport de invatare sau ca baza pentru un proiect scolar. Exemplele pot fi extinse cu grafice, demonstratii si exercitii rezolvate pas cu pas.
 
-## Structura Recomandata
+Structura Recomandata:
 
 ```text
 proiect-derivate/
