@@ -54,15 +54,3 @@ Derivatele pot fi folosite pentru:
 - aproximarea valorilor unei functii
 - modelarea vitezei de schimbare in probleme practice
 
-Materialul poate fi parcurs ca suport de invatare sau ca baza pentru un proiect scolar. Exemplele pot fi extinse cu grafice, demonstratii si exercitii rezolvate pas cu pas.
-
-Structura Recomandata:
-
-```text
-proiect-derivate/
-├── README.md
-├── teorie/
-├── exemple/
-├── exercitii/
-└── imagini/
-```
