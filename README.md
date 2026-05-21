@@ -18,7 +18,7 @@ Formula de definitie:
 f'(x) = lim(h -> 0) [f(x + h) - f(x)] / h
 ```
 
-## Reguli de Derivare
+Reguli de Derivare:
 
 ```text
 (c)' = 0
@@ -29,7 +29,7 @@ f'(x) = lim(h -> 0) [f(x + h) - f(x)] / h
 (f / g)' = (f' * g - f * g') / g^2
 ```
 
-## Exemple
+Exemple:
 
 ```text
 f(x) = x^2
@@ -66,8 +66,3 @@ proiect-derivate/
 ├── exercitii/
 └── imagini/
 ```
-
-## Autor
-
-Realizat pentru un proiect despre derivate.
-
